@@ -2,11 +2,11 @@
 
 #### Dashboard-Bank Customer Churn Analysis
 
-![alt text](Bank_Churn_Analysis_Dashboard.png)
+![alt text](./img/Bank_Churn_Analysis_Dashboard.png)
 
 #### Dashboard - Churn%
 
-![alt text](Churn_Percentage_Dashboard.png)
+![alt text](./img/Churn_Percentage_Dashboard.png)
 
 ### Project Requirement
 
