@@ -1,11 +1,12 @@
 # POWER-BI-Project2_Bank-Customer-Churn-Analysis
 
-### Dashboard Images 
 #### Dashboard-Bank Customer Churn Analysis
-![alt text](image.png)
+
+![alt text](Bank_Churn_Analysis_Dashboard.png)
 
 #### Dashboard - Churn%
-![alt text](image-1.png)
+
+![alt text](Churn_Percentage_Dashboard.png)
 
 ### Project Requirement
 
